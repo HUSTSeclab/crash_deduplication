@@ -1,0 +1,3 @@
+[submodule "reproduce_kernel_bugs"]
+	path = reproduce_kernel_bugs
+	url = https://github.com/HUSTSeclab/reproduce_kernel_bugs
